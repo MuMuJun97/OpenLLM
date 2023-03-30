@@ -11,6 +11,9 @@ A list of Large Language Model projects ...
 ```python
 # TODO
 ```
+#### pyllama 
+- Single GPU Inference: https://github.com/juncongmoo/pyllama 
+
 
 ### ChatGLM-6B
 ChatGLM-6B is a bilingual language model, which can be run on a single consumer-grade GPU.
